@@ -1,4 +1,4 @@
-# 电信用户流失预测 — 风控建模实战
+# 电信用户流失预测 
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0+-orange.svg)](https://scikit-learn.org/)
